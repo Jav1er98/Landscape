@@ -46,4 +46,4 @@ To enhance the overall aesthetics, a variety of external assets are used for veg
 In conclusion, this Unreal Engine 5 project successfully demonstrates the creation of a third-person game with a captivating environment. The combination of an expansive exterior landscape, a detailed enclosed structure, and various interactive and visual elements provides an engaging player experience. The implementation of lighting techniques, material customization, and object interactions showcases the capabilities of Unreal Engine 5 for game development.
 
 ## Video
-If you want to see the explanation of this project in video click here: https://www.youtube.com/watch?v=ug6puB1jesQ
+If you want to see the explanation of this project in video click here: https://www.youtube.com/watch?v=Chg_hnpTLpM

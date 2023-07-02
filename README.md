@@ -8,11 +8,14 @@ The objective of this project was to create a third-person game using Unreal Eng
   
 ## Environment
 
-The environment design encompasses three distinct areas: a forest, wetlands, and a snowy region. Each area is represented by separate material layers, providing visual variety and enhancing the immersive experience. Paths have been strategically placed throughout the landscape to guide the player towards a specific destination, with signage in the form of rocks or signs to assist with navigation. Additional effects, such as fog and volumetric lighting, are used to create a more immersive and visually captivating experience.
+The environment design encompasses three distinct areas: a forest, wetlands, and a snowy region. Each area is represented by separate material layers, providing visual variety and enhancing the immersive experience. Paths have been strategically placed throughout the landscape to guide the player towards a specific destination, with signage in the form of rocks or signs to assist with navigation.
 
  ![Paso 2](imgs/Captura1.png)
+
+ Additional effects, such as fog and volumetric lighting, are used to create a more immersive and visually captivating experience.
  
  ![Paso 2](imgs/Captura10.png)
+ ![Paso 2](imgs/Captura11.png)
  
 ## Interactive Object
 
@@ -23,6 +26,8 @@ An interactive object of importance is placed inside the closed structure. When 
 ![Paso 3](imgs/Captura5.png)
 
 ![Paso 3](imgs/Captura6.png)
+
+![Paso 3](/imgs/gif1.gif)
 
 ## Details
 Visual details play a significant role in enhancing the overall atmosphere of the game. The interior environment showcases signs of deterioration over time. Lighting within the interior environment is a static  lighting, with lightmaps and color adjustments contributing to the desired mood. 
